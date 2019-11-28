@@ -1,0 +1,69 @@
+Badminton Content Management System
+
+Badminton content management system is a system of computer software to
+manage all contents related to badminton.
+
+  --
+  --
+
+  -----------------------------------------------------------------------
+  It is possible to control and edit badminton documents, facilitate
+  auditing and adopt proper timeline management with badminton content
+  management system.
+  Badminton content management system can be in the following forms:
+  1. Web content management system.
+  2. Document management system.
+  3. Single source content management system.
+  4. Workflow type for publication of badminton related articles.
+  5. The work of a staff organization for newspaper editorials regarding
+  badminton.
+  Among the types of badminton content management systems available, the
+  web content management system is the most versatile and recent. It
+  provides the following special facilities:
+  1. Management of documents related to badminton.
+  2. Ability to template badminton contents automatically.
+  3. Upgradation to current web standards automatically.
+  4. Smooth management of badminton related workflow.
+  5. Ability to easily edit badminton contents.
+  6. Improvement in function of the existing site by easy modification.
+  With badminton web content management system, it is possible to control
+  and manage large collections of HTML documents and their related images
+  covering the various aspects of badminton. The following details can be
+  done easily and stored efficiently:
+  1. Publishing news.
+  2. News articles.
+  3. Players' manuals.
+  4. Coaching manuals.
+  5. Rules and regulations of badminton.
+  6. Badminton equipment details.
+  7. Equipment specifictations.
+  8. Ranking details.
+  9. Player profiles.
+  10. Events calender.
+  In addition, BADMINTON CONTENT MANAGEMENT SYSTEM enables:
+  1. Segregation and allotment of work and responsibilities related to
+  badminton to different people and organisations.
+  2. Compilation of badminton related multimedia details and documents.
+  3. Knowledge of all important and vital users and their roles in
+  managing badminton related content.
+  4. Searching and managing different versions of a single content
+  pertaining to various aspects of badminton.
+  5. Alerting people who are managing badminton content regarding the
+  changes in content like events and allotted tasks.
+  6. Converting the badminton content to a repository to facilitate
+  content access.
+  Recently, badminton web content systems have developed features like
+  community blogging, community building, online calenders,
+  personalization and even real time analysis in website. Such advanced
+  features enable one to:
+  1. Build separate online badminton communities for blogging, threaded
+  discussions, message boards and participating in forums.
+  2. Analyse website regarding the life cycle of visitors to the website.
+  3. Increase web customer hits with web alerts and subscriptions.
+  4. Enable online personalization and portal building.
+  5. Convert the website into a street with high speed net traffic in
+  both ways.
+  6. Associate with related and compliant badminton sites.
+
+  -----------------------------------------------------------------------
+
