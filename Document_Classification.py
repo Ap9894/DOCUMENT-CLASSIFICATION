@@ -13,11 +13,11 @@ extension = 'txt'
 result = []
 for i in category:
 #     print(i)
-    a = glob.glob('document_classifiaction/{}/*{}'.format(i,extension))
+    a = glob.glob('document_classification/{}/*{}'.format(i,extension))
     result.append(a)
 
 
-test = glob.glob('document_classifiaction/{}/*{}'.format('test dataset',extension))
+test = glob.glob('document_classification/{}/*{}'.format('test dataset',extension))
 
 data = []
 train_label = []
